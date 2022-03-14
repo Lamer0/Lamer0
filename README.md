@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, Heil, שָׁלוֹם עֲלֵיכֶם
 
-<!--
-**Lamer0/Lamer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ✔ I’m currently learning Kotlin.Android, С#(Xamarin, maybe MAUI)
+- 👯 I’m looking to collaborate on my library or your project
+- 👀 I’m looking for help with documentation for my library 
+- 💬 Ask me about OOP, WPF, Xamarin, WinForms(Not Delphi)
+- 📫 How to reach me: Reddit: https://www.reddit.com/user/Lamer0/ ,VK: https://vk.com/adrnv_nkt
+- ⚡ Fun fact: I ❤ RedBull 
+- 🎶 Why we get nv4.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                    
+                    
+                    
+                    
+
